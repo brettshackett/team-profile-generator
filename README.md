@@ -41,7 +41,7 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Walkthrough Video
-![Team Generator Walkthrough Video](./assets/jestteamprofile.gif)
+![Team Generator Walkthrough Video](./assets/jest-team-profile.gif)
 
 ## Credits
 - Bootstrap: https://getbootstrap.com/
