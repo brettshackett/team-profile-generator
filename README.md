@@ -7,7 +7,6 @@ The Team Profile Generator was used to demonstrate the understanding of Jest and
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Screenshot](#screenshot)
 - [Walkthrough Video](#walkthrough-video)
 - [Credits](#credits)
 
@@ -41,13 +40,9 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Screenshot
-This is a screenshot of the generated HTML webpage.
-
-![Team Generator HTML Webpage Screenshot](./assets/Team-Profile-Generator_Screenshot.png)
-
 ## Walkthrough Video
-![Team Generator Walkthrough Video](./assets/10_OOP-Team-Profile-Generator-Demo_Final.gif)
+![Team Generator Walkthrough Video](./assets/jestteamprofile.gif)
+
 ## Credits
 - Bootstrap: https://getbootstrap.com/
 - NodeJS: https://nodejs.org/en/
